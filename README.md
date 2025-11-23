@@ -1,8 +1,8 @@
-# CHIP-8 Emulator 🕹️
+# CHIP-8 Emulator
 
 A Java implementation of a CHIP-8 interpreter/emulator. Currently in development with basic functionality for ROM execution, display rendering, and input handling.
 
-## Features ✅
+## Features
 
 ### Implemented
 - **Core CPU Operations**:
@@ -18,7 +18,7 @@ A Java implementation of a CHIP-8 interpreter/emulator. Currently in development
 - **ROM Loading** from binary files
 - **Swing-based GUI**
 
-### Planned Features 🚧
+### Planned Features
 - Full opcode implementation
 - Sound support (buzzer)
 - Proper timer synchronization
@@ -26,7 +26,7 @@ A Java implementation of a CHIP-8 interpreter/emulator. Currently in development
 - Configurable clock speed
 - Save/Load state functionality
 
-## Installation ⚙️
+## Installation
 
 ### Requirements
 - JDK 17+
