@@ -1,0 +1,14 @@
+# Compiled Java class files
+*.class
+
+# ROM files (users should download these separately)
+roms/
+
+# IDE specific files
+.vscode/
+.idea/
+*.iml
+
+# OS specific files
+.DS_Store
+Thumbs.db
